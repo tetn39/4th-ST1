@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ポケモン図鑑</string>
+    <string name="loading">読み込み中...</string>
+    <string name="search">検索</string>
+    <string name="next">次へ</string>
+    <string name="back">戻る</string>
+    <string name="list">一覧</string>
+    <string name="height">高さ: %1$s m</string>
+    <string name="weight">重さ: %1$s kg</string>
+    <string name="name">名前: %1$s</string>
+    <string name="error">エラー</string>
+</resources>
